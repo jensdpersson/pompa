@@ -20,5 +20,8 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/jensdpersson/pompa/issues"
+  },
+  "dependencies": {
+    "sax": "~0.6.1"
   }
 }
